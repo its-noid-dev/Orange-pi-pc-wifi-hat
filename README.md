@@ -28,7 +28,7 @@ This is the tft used for the hat
 
 ## Installation
 
-To install the WiFi and TFT Display setup on your Orange Pi PC, run the following commands in your terminal:
+To install the WiFi and TFT Display setup on your Orange Pi PC, run the following commands in your terminal or download the install file in the releases tab:
 
 ```bash
   curl -O [https://raw.githubusercontent.com/its-noid-dev/Orange-pi-pc-wifi-hat/main/install.sh](https://raw.githubusercontent.com/its-noid-dev/Orange-pi-pc-wifi-hat/main/install.sh)
