@@ -14,6 +14,11 @@ A fully open-source wifi hat for the OrangePi pc v1.3
 - Wireless wifi
 - Tft screen support (scroll down!)
 
+## TFT
+This is the tft used for the hat
+![TFT Display Example](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi05-t4B41LRXU30vJk-rmvsiKHm_trufax5PkwTz41A&s=10)
+
+
 
 ## Features
 
