@@ -19,13 +19,6 @@ This is the tft used for the hat
 ![TFT Display Example](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi05-t4B41LRXU30vJk-rmvsiKHm_trufax5PkwTz41A&s=10)
 
 
-
-## Features
-
-- Wireless wifi
-- Tft screen support (scroll down!)
-
-
 ## Installation
 
 To install the WiFi and TFT Display setup on your Orange Pi PC, run the following commands in your terminal or download the install file in the releases tab:
